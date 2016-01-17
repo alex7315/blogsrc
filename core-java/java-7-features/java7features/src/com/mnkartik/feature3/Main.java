@@ -1,4 +1,4 @@
-package com.getonjava.feature3;
+package com.mnkartik.feature3;
 
 import java.io.IOException;
 import java.sql.SQLException;

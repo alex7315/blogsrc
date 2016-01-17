@@ -1,4 +1,4 @@
-package com.getonjava.feature1;
+package com.mnkartik.feature1;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -9,8 +9,8 @@ public class OldCopy {
 	public static void main(String[] args) throws Exception {
 
 		// note: change the path of the files as per your system  
-		oldcopy("C:/drive/kartik/repo/github/getonjava/corejava/Java 7 Programming Features - Automatic Resource Management/java7feature1/resources/first.txt", 
-				"C:/drive/kartik/repo/github/getonjava/corejava/Java 7 Programming Features - Automatic Resource Management/java7feature1/resources/first.txt");
+		oldcopy("C:/java7features/resources/first.txt", 
+				"C:/java7features/resources/first-1.txt");
 
 		System.out.println("contents copied");
 	}

@@ -1,4 +1,4 @@
-package com.getonjava.feature2;;
+package com.mnkartik.feature2;;
 
 public class Main {
 
