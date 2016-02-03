@@ -10,6 +10,10 @@ public class AWSResourceUtil {
 	public static AmazonS3Client getS3Client() {
 
 		// [1]
+		/*
+		 * NOTE: Make sure the aws secret key and access key are provided for
+		 * the example to work.
+		 */
 		String accessKey = null;
 		String secretKey = null;
 
