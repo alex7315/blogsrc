@@ -159,7 +159,7 @@ For success response, above function is used, but for error, usually a utility c
 
 #### Suggested Folder structure :
 
-![](http://i.imgur.com/cMCSDLI.jpg)
+![](./images/img.jpg)
 
 
 
